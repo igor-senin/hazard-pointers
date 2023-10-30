@@ -1,0 +1,1 @@
+#include <hazard/manager.hpp>
